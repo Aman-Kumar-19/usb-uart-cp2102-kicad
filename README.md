@@ -54,9 +54,10 @@ The design is implemented following professional embedded hardware guidelines:
 ---
 
 ## 🧊 3D View
+<img width="617" height="311" alt="image" src="https://github.com/user-attachments/assets/2dd28690-636c-42de-b1ff-5775db677fa3" />
 
-<img width="1557" height="791" alt="image" src="https://github.com/user-attachments/assets/1df55cb9-3606-40d5-888c-4e3e0692c365" />
-<img width="1169" height="566" alt="image" src="https://github.com/user-attachments/assets/2c190ff2-c21d-4575-850c-221042fd7e6b" />
+
+<img width="593" height="313" alt="image" src="https://github.com/user-attachments/assets/f1e8314c-7fc7-4d60-9e0f-197ee9469a90" />
 
 
 ---
