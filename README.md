@@ -48,16 +48,18 @@ The design is implemented following professional embedded hardware guidelines:
 
 ## 🧾 PCB Layout
 
-<img width="1496" height="874" alt="image" src="https://github.com/user-attachments/assets/8bcee33e-1254-4deb-aedf-4bc73c71897c" />
+<img width="1367" height="614" alt="image" src="https://github.com/user-attachments/assets/815782f5-8580-442f-ab09-568081cd89a5" />
+
 
 
 ---
 
 ## 🧊 3D View
-<img width="617" height="311" alt="image" src="https://github.com/user-attachments/assets/2dd28690-636c-42de-b1ff-5775db677fa3" />
+<img width="1224" height="615" alt="image" src="https://github.com/user-attachments/assets/19cd2611-8a16-45f6-9469-dd2f86389e43" />
 
+-----
 
-<img width="593" height="313" alt="image" src="https://github.com/user-attachments/assets/f1e8314c-7fc7-4d60-9e0f-197ee9469a90" />
+<img width="1203" height="627" alt="image" src="https://github.com/user-attachments/assets/e27f96fe-814c-47ed-af70-157344908729" />
 
 
 ---
